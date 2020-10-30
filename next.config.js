@@ -1,5 +1,5 @@
 module.exports = {
     env: {
-        GITHUB_TOKEN: "a69ee1ecf22f18899d7fc9f02067b384e82f33a8"
+        GITHUB_TOKEN: "8b9b592ae18c5658b889c2287fc12adfe651303c"
     },
 }
