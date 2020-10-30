@@ -43,7 +43,7 @@ export default function Home({ reactions }) {
   return (
     <div className='container'>
       <Head>
-        <title>Static Reactions Demo</title>
+        <title>Without revalidate</title>
         <link rel='icon' href='/favicon.ico' />
         <meta name='twitter:card' content='summary_large_image' />
         <meta property='og:title' content='Static Reactions Demo' />
